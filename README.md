@@ -26,7 +26,7 @@ The data is available on the [Auto Insurance Kaggle Challenge](https://www.kaggl
       
       The model file is stored in `model/`
       
-      The 2 scripts perform all the steps in A) and explicitly output the performance of algorithms. 
+      The 2 scripts perform necessary steps from 1) and explicitly output the performance of algorithms. 
       Additionally, they save the model after training, make predictions on test data and save them to `predicted_TARGET_FLAG.csv`
   
       To run the scripts :
