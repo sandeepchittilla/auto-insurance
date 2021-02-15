@@ -33,5 +33,5 @@ The data is available on the [Auto Insurance Kaggle Challenge](https://www.kaggl
       - Download data and place it in root directory
       - cd into `src/` and run : 
 
-            `python -W ignore AutoInsurance.py --train`
+            python -W ignore AutoInsurance.py --train
 
