@@ -2,7 +2,12 @@
 ML model to predict which of the customers were likely to be in a Car Crash or not
 
 # Data
+
+### Input Data
 The data is available on the [Auto Insurance Kaggle Challenge](https://www.kaggle.com/c/auto-insurance-fall-2017/data) and we wish to predict the 'TARGET_FLAG' column
+
+### Output Data
+The output csv is `predicted_TARGET_FLAG.csv` and is in the root directory 
 
 # Solution
 1. The notebook `auto_insurance_DS.ipynb` has the end-to-end code for :
